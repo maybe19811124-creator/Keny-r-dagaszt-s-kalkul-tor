@@ -1,0 +1,5 @@
+{
+  "name": "Kenyér dagasztás kalkulátor",
+  "description": "Kenyér összetevő kalkulátor recept arányok alapján, nyomtatási lehetőséggel.",
+  "requestFramePermissions": []
+}

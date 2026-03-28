@@ -1,0 +1,6 @@
+{
+  "appId": "com.kenyer.kalkulator",
+  "appName": "Kenyér dagasztás kalkulátor",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
